@@ -1,6 +1,6 @@
-# React Online Course
+# React Online Video Course
 
-Source code for the article [Build an Online Course with React](https://coursekit.dev/blog/online-course-react)
+**Source code for the article [Build an Online Course with React](https://coursekit.dev/blog/online-course-react).**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
