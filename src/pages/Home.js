@@ -1,6 +1,5 @@
-import data from '../data'
 import CourseSummary from '../components/CourseSummary'
-const { courses } = data
+import courses from '../courses'
 
 function Home() {
   return (

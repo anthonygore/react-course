@@ -2,7 +2,6 @@ import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import Course from './pages/Course'
 import Lesson from './pages/Lesson'
-import Footer from './components/Footer'
 
 function App() {
   return (
@@ -23,7 +22,6 @@ function App() {
           />
         </Routes>
       </main>
-      <Footer />
     </div>
   )
 }
